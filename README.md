@@ -8,6 +8,7 @@
 - Knex (Query builder)
 - Sqlite (Database)
 - Zod (Field validations)
+- Vitest (Testing Library)
 
 ## RF 
 
