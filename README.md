@@ -9,6 +9,7 @@
 - Sqlite (Database)
 - Zod (Field validations)
 - Vitest (Testing Library)
+- Tsup (TS Bundle)
 
 ## RF 
 
