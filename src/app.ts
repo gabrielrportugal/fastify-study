@@ -10,6 +10,8 @@ app.addHook('preHandler', async (request, response) => {
   console.log(`LOG -> [${request.method}] - ${request.url}`)
 })
 
+app.get('/ping', () => 'pong')
+
 app.register(transactionsRoutes, {
   prefix: 'transactions',
 })
