@@ -19,5 +19,5 @@
 ## RN
 
 - [x] The transactions can be 2 types (credit/debit);
-- [ ] Should identify user from requests;
-- [ ] User should see only his transactions
+- [x] Should identify user from requests;
+- [x] User should see only his transactions
